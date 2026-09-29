@@ -1,1 +1,2 @@
 # Подписка 9.2.txt | telegram-v2ray-configs (полный)
+vless://ff3e812e-be77-4138-a657-dd9c0690ffde@zuko.kosmolet.me:23443?security=reality&encryption=none&pbk=faWyYwDgEK-D5aGPzUmwRUZnkMHeEU5EJh-MD3YiohE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=1f59aa483317da77#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20api-maps.yandex.ru
